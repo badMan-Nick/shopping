@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkshopping"]=self["webpackChunkshopping"]||[]).push([[258],{9370:function(n,e,u){u.r(e),u.d(e,{default:function(){return l}});var r=function(){var n=this,e=n._self._c;return e("div",[n._v("团购")])},t=[],s={name:"teamOrder"},f=s,c=u(1001),i=(0,c.Z)(f,r,t,!1,null,"3fe8cf22",null),l=i.exports}}]);
+//# sourceMappingURL=258.7d65da2f.js.map
